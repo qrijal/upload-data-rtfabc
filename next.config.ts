@@ -5,7 +5,10 @@ const nextConfig = {
   allowedDevOrigins: [
     '10.165.175.96',      // IP yang diblokir
     'localhost',          // opsional: untuk akses lokal
-    '127.0.0.1',          // opsional: untuk akses lokal
+    '127.0.0.1',
+    'z38v3mfl-3000.asse.devtunnels.ms',
+    'lv85ghgq-3000.asse.devtunnels.ms'         // opsional: untuk akses lokal
+    
     // Tambahkan IP/host lain jika diperlukan
   ],
   
